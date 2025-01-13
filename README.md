@@ -1,0 +1,2 @@
+Hepatitis B virus disease progresses from stage, Asymptomatic carrier (ASY), to Liver cirrhosis (LC),and through end stage Hepatocellular carcinoma
+with Liver cirrhosis. Biochemical parameters such as AST, ALT, Prothrombin time, Platelet count and so on can act as predictive variables and understand disease progrssion. These codes are for data exploration, visualisation and machine learning models to understand the nature of disease stages and its progression
